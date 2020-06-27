@@ -35,8 +35,8 @@ The files used to fetch the confirmed cases, the death count and recovered cases
 ❖ Analysis on country specific data i.e. about the United States of America can be found below Confirmed cases- time_series_covid19_confirmed_US.csv </br>
 ❖ Deaths - time_series_covid19_deaths_US.csv </br>
       
-Additionally, the following datasets are downloaded to analyze our primary data set from different angles:
-• https://worldpopulationreview.com/states/
-• https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm
-• https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm 
+Additionally, the following datasets are downloaded to analyze our primary data set from different angles:</br>
+• https://worldpopulationreview.com/states/</br>
+• https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm</br>
+• https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm </br>
 • https://data.census.gov/cedsci/table?g=0100000US.04000.001&tid=GOVSTIMESERIESGS00TC01&hidePreview=true&vintage=2018&layer=VT_2018_040_00_PY_D1&cid=S0102_C01_001E

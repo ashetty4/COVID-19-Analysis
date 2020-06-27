@@ -39,4 +39,4 @@ Additionally, the following datasets are downloaded to analyze our primary data 
 • https://worldpopulationreview.com/states/
 • https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm
 • https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm 
-• https://data.census.gov/cedsci/table?g=0100000US.04000.001&tid=GOVSTIMESERIES .GS00TC01&hidePreview=true&vintage=2018&layer=VT_2018_040_00_PY_D1&cid= S0102_C01_001E
+• https://data.census.gov/cedsci/table?g=0100000US.04000.001&tid=GOVSTIMESERIESGS00TC01&hidePreview=true&vintage=2018&layer=VT_2018_040_00_PY_D1&cid=S0102_C01_001E
